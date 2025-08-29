@@ -1,4 +1,4 @@
-# Ultimate RAG Workflow - Databricks Integration
+# RAG Workflow - Databricks Integration
 
 A complete end-to-end RAG (Retrieval-Augmented Generation) system that creates Databricks notebooks, enables document upload, provides interactive querying, tracks everything in MLflow, and offers both CLI and API interfaces.
 
