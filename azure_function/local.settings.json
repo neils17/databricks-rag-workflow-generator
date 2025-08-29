@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_KEY": "",
+    "DATABRICKS_HOST": "",
+    "DATABRICKS_TOKEN": "",
+    "DATABRICKS_CATALOG": "",
+    "DATABRICKS_SCHEMA": ""
+  }
+}
